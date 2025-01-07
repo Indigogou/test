@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9f3be7b-095d-448f-b4e2-b10fd323b059" name="Default Changelist" comment="change flow" />
+    <list default="true" id="e9f3be7b-095d-448f-b4e2-b10fd323b059" name="Default Changelist" comment="change flow">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +81,7 @@
       <workItem from="1736161881451" duration="1420000" />
       <workItem from="1736220339781" duration="2275000" />
       <workItem from="1736222644747" duration="711000" />
-      <workItem from="1736223833551" duration="2590000" />
+      <workItem from="1736223833551" duration="3477000" />
     </task>
     <task id="LOCAL-00001" summary="fist init">
       <created>1736162052368</created>
@@ -94,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736226417191</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change flow">
+      <created>1736226500104</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736226500104</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
