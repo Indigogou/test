@@ -123,7 +123,8 @@
 
 					<!-- Exclude dependencies from the final artifact -->
 					<excludeDevtools>false</excludeDevtools>
-
+					<mainClass>com.dz.data_server.DataServerApplication</mainClass>
+					<excludeDevtools>false</excludeDevtools>
 					<!-- Set the output directory for dependencies -->
 					<outputDirectory>${project.build.directory}/lib</outputDirectory>
 					<layout>ZIP</layout>

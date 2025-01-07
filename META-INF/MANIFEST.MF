@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Main-Class: com.dz.data_server.DataServerApplication
+Class-Path: libs/ch.qos.logback:logback-classic:1.5.7 libs/ch.qos.logbac
+ k:logback-core:1.5.7 libs/com.fasterxml.jackson.core:jackson-annotation
+ s:2.17.2 libs/com.fasterxml.jackson.core:jackson-core:2.17.2 libs/com.f
+ asterxml.jackson.core:jackson-databind:2.17.2 libs/com.fasterxml.jackso
+ n.datatype:jackson-datatype-jdk8:2.17.2 libs/com.fasterxml.jackson.data
+ type:jackson-datatype-jsr310:2.17.2 libs/com.fasterxml.jackson.module:j
+ ackson-module-parameter-names:2.17.2 libs/com.fasterxml:classmate:1.7.0
+  libs/com.google.code.findbugs:jsr305:3.0.2 libs/com.google.code.gson:g
+ son:2.10.1 libs/com.google.errorprone:error_prone_annotations:2.2.0 lib
+ s/com.google.guava:failureaccess:1.0.1 libs/com.google.guava:guava:27.0
+ .1-jre libs/com.google.guava:listenablefuture:9999.0-empty-to-avoid-con
+ flict-with-guava libs/com.google.j2objc:j2objc-annotations:1.1 libs/io.
+ micrometer:micrometer-commons:1.13.3 libs/io.micrometer:micrometer-obse
+ rvation:1.13.3 libs/jakarta.annotation:jakarta.annotation-api:2.1.1 lib
+ s/jakarta.validation:jakarta.validation-api:3.0.2 libs/org.apache.commo
+ ns:commons-pool2:2.12.0 libs/org.apache.logging.log4j:log4j-api:2.23.1 
+ libs/org.apache.logging.log4j:log4j-to-slf4j:2.23.1 libs/org.apache.tom
+ cat.embed:tomcat-embed-core:10.1.28 libs/org.apache.tomcat.embed:tomcat
+ -embed-el:10.1.28 libs/org.apache.tomcat.embed:tomcat-embed-websocket:1
+ 0.1.28 libs/org.checkerframework:checker-qual:2.5.2 libs/org.codehaus.m
+ ojo:animal-sniffer-annotations:1.17 libs/org.hibernate.validator:hibern
+ ate-validator:8.0.1.Final libs/org.jboss.logging:jboss-logging:3.5.3.Fi
+ nal libs/org.json:json:20230618 libs/org.projectlombok:lombok:1.18.34 l
+ ibs/org.slf4j:jul-to-slf4j:2.0.16 libs/org.slf4j:slf4j-api:2.0.16 libs/
+ org.springframework.boot:spring-boot-autoconfigure:3.3.3 libs/org.sprin
+ gframework.boot:spring-boot-devtools:3.3.3 libs/org.springframework.boo
+ t:spring-boot-starter-json:3.3.3 libs/org.springframework.boot:spring-b
+ oot-starter-logging:3.3.3 libs/org.springframework.boot:spring-boot-sta
+ rter-security:3.3.3 libs/org.springframework.boot:spring-boot-starter-t
+ omcat:3.3.3 libs/org.springframework.boot:spring-boot-starter-validatio
+ n:3.3.3 libs/org.springframework.boot:spring-boot-starter-web:3.3.3 lib
+ s/org.springframework.boot:spring-boot-starter:3.3.3 libs/org.springfra
+ mework.boot:spring-boot:3.3.3 libs/org.springframework.security:spring-
+ security-config:6.3.3 libs/org.springframework.security:spring-security
+ -core:6.3.3 libs/org.springframework.security:spring-security-crypto:6.
+ 3.3 libs/org.springframework.security:spring-security-web:6.3.3 libs/or
+ g.springframework:spring-aop:6.1.12 libs/org.springframework:spring-bea
+ ns:6.1.12 libs/org.springframework:spring-context:6.1.12 libs/org.sprin
+ gframework:spring-core:6.1.12 libs/org.springframework:spring-expressio
+ n:6.1.12 libs/org.springframework:spring-jcl:6.1.12 libs/org.springfram
+ ework:spring-web:6.1.12 libs/org.springframework:spring-webmvc:6.1.12 l
+ ibs/org.yaml:snakeyaml:2.2 libs/redis.clients:jedis:5.0.0
+
