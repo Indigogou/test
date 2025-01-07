@@ -1,17 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="data-server:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9f3be7b-095d-448f-b4e2-b10fd323b059" name="Default Changelist" comment="fist init" />
+    <list default="true" id="e9f3be7b-095d-448f-b4e2-b10fd323b059" name="Default Changelist" comment="change flow" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/dz/data_server/DataServerApplicationTests.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/application.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.github/workflows/maven.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/application.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/dz/data_server/DataServerApplication.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2rFjn0GDPrzDvpFUaAj3OcW7upT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,6 +42,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.14641291" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -58,7 +75,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736161880263</updated>
-      <workItem from="1736161881451" duration="825000" />
+      <workItem from="1736161881451" duration="1420000" />
+      <workItem from="1736220339781" duration="2275000" />
+      <workItem from="1736222644747" duration="711000" />
+      <workItem from="1736223833551" duration="2590000" />
     </task>
     <task id="LOCAL-00001" summary="fist init">
       <created>1736162052368</created>
@@ -67,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736162052368</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change flow">
+      <created>1736226417191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736226417191</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,9 +110,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fist init" />
-    <option name="LAST_COMMIT_MESSAGE" value="fist init" />
+    <MESSAGE value="change flow" />
+    <option name="LAST_COMMIT_MESSAGE" value="change flow" />
   </component>
 </project>

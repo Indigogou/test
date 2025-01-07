@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Main-Class: com.dz.data_server.DataServerApplication
+Class-Path: spring-boot-autoconfigure-3.3.3.jar gson-2.10.1.jar jackson-
+ annotations-2.17.2.jar spring-boot-3.3.3.jar jackson-databind-2.17.2.ja
+ r slf4j-api-2.0.16.jar spring-web-6.1.12.jar jackson-module-parameter-n
+ ames-2.17.2.jar spring-boot-starter-tomcat-3.3.3.jar jul-to-slf4j-2.0.1
+ 6.jar commons-pool2-2.12.0.jar spring-boot-starter-3.3.3.jar spring-exp
+ ression-6.1.12.jar hibernate-validator-8.0.1.Final.jar classmate-1.7.0.
+ jar spring-context-6.1.12.jar json-20230618.jar tomcat-embed-core-10.1.
+ 28.jar jsr305-3.0.2.jar spring-security-config-6.3.3.jar spring-webmvc-
+ 6.1.12.jar jedis-5.0.0.jar jackson-datatype-jsr310-2.17.2.jar logback-c
+ ore-1.5.7.jar lombok-1.18.34.jar spring-security-crypto-6.3.3.jar anima
+ l-sniffer-annotations-1.17.jar logback-classic-1.5.7.jar spring-securit
+ y-core-6.3.3.jar spring-aop-6.1.12.jar jackson-datatype-jdk8-2.17.2.jar
+  micrometer-commons-1.13.3.jar j2objc-annotations-1.1.jar jackson-core-
+ 2.17.2.jar spring-boot-devtools-3.3.3.jar spring-jcl-6.1.12.jar checker
+ -qual-2.5.2.jar guava-27.0.1-jre.jar snakeyaml-2.2.jar log4j-to-slf4j-2
+ .23.1.jar failureaccess-1.0.1.jar jakarta.annotation-api-2.1.1.jar jaka
+ rta.validation-api-3.0.2.jar micrometer-observation-1.13.3.jar spring-s
+ ecurity-web-6.3.3.jar spring-boot-starter-web-3.3.3.jar spring-beans-6.
+ 1.12.jar tomcat-embed-el-10.1.28.jar error_prone_annotations-2.2.0.jar 
+ tomcat-embed-websocket-10.1.28.jar spring-boot-starter-security-3.3.3.j
+ ar listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar jboss
+ -logging-3.5.3.Final.jar spring-boot-starter-json-3.3.3.jar spring-core
+ -6.1.12.jar log4j-api-2.23.1.jar spring-boot-starter-validation-3.3.3.j
+ ar spring-boot-starter-logging-3.3.3.jar
+
