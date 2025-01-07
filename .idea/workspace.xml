@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e9f3be7b-095d-448f-b4e2-b10fd323b059" name="Default Changelist" comment="change flow">
       <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,7 @@
       <workItem from="1736161881451" duration="1420000" />
       <workItem from="1736220339781" duration="2275000" />
       <workItem from="1736222644747" duration="711000" />
-      <workItem from="1736223833551" duration="3477000" />
+      <workItem from="1736223833551" duration="3645000" />
     </task>
     <task id="LOCAL-00001" summary="fist init">
       <created>1736162052368</created>
@@ -104,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736226500104</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change flow">
+      <created>1736240812383</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736240812383</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
